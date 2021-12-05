@@ -1,0 +1,13 @@
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\bin\Debug\netcoreapp3.1\exercicios1.exe
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\bin\Debug\netcoreapp3.1\exercicios1.deps.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\bin\Debug\netcoreapp3.1\exercicios1.runtimeconfig.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\bin\Debug\netcoreapp3.1\exercicios1.runtimeconfig.dev.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\bin\Debug\netcoreapp3.1\exercicios1.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\bin\Debug\netcoreapp3.1\exercicios1.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\obj\Debug\netcoreapp3.1\exercicios1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\obj\Debug\netcoreapp3.1\exercicios1.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\obj\Debug\netcoreapp3.1\exercicios1.AssemblyInfo.cs
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\obj\Debug\netcoreapp3.1\exercicios1.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\obj\Debug\netcoreapp3.1\exercicios1.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\obj\Debug\netcoreapp3.1\exercicios1.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\exercicios1\exercicios1\obj\Debug\netcoreapp3.1\exercicios1.genruntimeconfig.cache
