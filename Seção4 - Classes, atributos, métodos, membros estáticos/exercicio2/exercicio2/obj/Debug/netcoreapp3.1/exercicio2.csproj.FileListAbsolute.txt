@@ -1,0 +1,13 @@
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.exe
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.deps.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.runtimeconfig.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.runtimeconfig.dev.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\bin\Debug\netcoreapp3.1\exercicio2.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.AssemblyInfo.cs
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção4 - Classes, atributos, métodos, membros estáticos\exercicio2\exercicio2\obj\Debug\netcoreapp3.1\exercicio2.genruntimeconfig.cache
