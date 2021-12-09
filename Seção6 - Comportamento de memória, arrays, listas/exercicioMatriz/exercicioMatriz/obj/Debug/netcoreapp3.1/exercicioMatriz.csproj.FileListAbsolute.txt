@@ -1,0 +1,14 @@
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\bin\Debug\netcoreapp3.1\exercicioMatriz.exe
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\bin\Debug\netcoreapp3.1\exercicioMatriz.deps.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\bin\Debug\netcoreapp3.1\exercicioMatriz.runtimeconfig.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\bin\Debug\netcoreapp3.1\exercicioMatriz.runtimeconfig.dev.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\bin\Debug\netcoreapp3.1\exercicioMatriz.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\bin\Debug\netcoreapp3.1\exercicioMatriz.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\obj\Debug\netcoreapp3.1\exercicioMatriz.csproj.AssemblyReference.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\obj\Debug\netcoreapp3.1\exercicioMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\obj\Debug\netcoreapp3.1\exercicioMatriz.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\obj\Debug\netcoreapp3.1\exercicioMatriz.AssemblyInfo.cs
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\obj\Debug\netcoreapp3.1\exercicioMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\obj\Debug\netcoreapp3.1\exercicioMatriz.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\obj\Debug\netcoreapp3.1\exercicioMatriz.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioMatriz\exercicioMatriz\obj\Debug\netcoreapp3.1\exercicioMatriz.genruntimeconfig.cache
