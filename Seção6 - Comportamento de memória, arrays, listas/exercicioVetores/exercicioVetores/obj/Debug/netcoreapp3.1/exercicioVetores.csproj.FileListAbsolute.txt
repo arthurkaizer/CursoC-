@@ -1,0 +1,14 @@
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp3.1\exercicioVetores.exe
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp3.1\exercicioVetores.deps.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp3.1\exercicioVetores.runtimeconfig.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp3.1\exercicioVetores.runtimeconfig.dev.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp3.1\exercicioVetores.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\bin\Debug\netcoreapp3.1\exercicioVetores.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp3.1\exercicioVetores.csproj.AssemblyReference.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp3.1\exercicioVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp3.1\exercicioVetores.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp3.1\exercicioVetores.AssemblyInfo.cs
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp3.1\exercicioVetores.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp3.1\exercicioVetores.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp3.1\exercicioVetores.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioVetores\exercicioVetores\obj\Debug\netcoreapp3.1\exercicioVetores.genruntimeconfig.cache
