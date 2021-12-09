@@ -1,0 +1,14 @@
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\bin\Debug\netcoreapp3.1\exercicio.exe
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\bin\Debug\netcoreapp3.1\exercicio.deps.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\bin\Debug\netcoreapp3.1\exercicio.runtimeconfig.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\bin\Debug\netcoreapp3.1\exercicio.runtimeconfig.dev.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\bin\Debug\netcoreapp3.1\exercicio.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\bin\Debug\netcoreapp3.1\exercicio.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\obj\Debug\netcoreapp3.1\exercicio.csproj.AssemblyReference.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\obj\Debug\netcoreapp3.1\exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\obj\Debug\netcoreapp3.1\exercicio.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\obj\Debug\netcoreapp3.1\exercicio.AssemblyInfo.cs
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\obj\Debug\netcoreapp3.1\exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\obj\Debug\netcoreapp3.1\exercicio.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\obj\Debug\netcoreapp3.1\exercicio.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção5 -  Construtores, palavra this, sobrecarga, encapsulamento\exercicio\exercicio\obj\Debug\netcoreapp3.1\exercicio.genruntimeconfig.cache
