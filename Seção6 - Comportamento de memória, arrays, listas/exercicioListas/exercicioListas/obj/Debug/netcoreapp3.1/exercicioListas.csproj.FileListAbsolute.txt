@@ -1,0 +1,14 @@
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\bin\Debug\netcoreapp3.1\exercicioListas.exe
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\bin\Debug\netcoreapp3.1\exercicioListas.deps.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\bin\Debug\netcoreapp3.1\exercicioListas.runtimeconfig.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\bin\Debug\netcoreapp3.1\exercicioListas.runtimeconfig.dev.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\bin\Debug\netcoreapp3.1\exercicioListas.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\bin\Debug\netcoreapp3.1\exercicioListas.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\obj\Debug\netcoreapp3.1\exercicioListas.csproj.AssemblyReference.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\obj\Debug\netcoreapp3.1\exercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\obj\Debug\netcoreapp3.1\exercicioListas.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\obj\Debug\netcoreapp3.1\exercicioListas.AssemblyInfo.cs
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\obj\Debug\netcoreapp3.1\exercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\obj\Debug\netcoreapp3.1\exercicioListas.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\obj\Debug\netcoreapp3.1\exercicioListas.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção6 - Comportamento de memória, arrays, listas\exercicioListas\exercicioListas\obj\Debug\netcoreapp3.1\exercicioListas.genruntimeconfig.cache
