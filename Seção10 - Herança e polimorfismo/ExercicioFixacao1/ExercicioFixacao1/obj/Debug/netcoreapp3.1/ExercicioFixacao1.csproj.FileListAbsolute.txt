@@ -1,0 +1,14 @@
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.exe
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.deps.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.runtimeconfig.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.runtimeconfig.dev.json
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\bin\Debug\netcoreapp3.1\ExercicioFixacao1.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.csproj.AssemblyReference.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.AssemblyInfoInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.AssemblyInfo.cs
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.dll
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.pdb
+C:\Users\Arthur\Documents\GitHub\CursoC#\Seção10 - Herança e polimorfismo\ExercicioFixacao1\ExercicioFixacao1\obj\Debug\netcoreapp3.1\ExercicioFixacao1.genruntimeconfig.cache
