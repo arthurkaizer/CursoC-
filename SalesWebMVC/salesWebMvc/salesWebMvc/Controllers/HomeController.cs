@@ -1,14 +1,13 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using salesWebMvc.Models;
-using salesWebMvc.Models.ViewsModels;
+using SalesWebMvc.Models;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace salesWebMvc.Controllers
+namespace SalesWebMvc.Controllers
 {
     public class HomeController : Controller
     {
